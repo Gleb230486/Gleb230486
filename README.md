@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**Gleb230486/Gleb230486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Education: Higher Education  
+Additional Education: Tough Negotiations, Sales Skills, Handling Objections, QA Engineer (Software Tester) Courses  
+Work Experience: Over 15 years. Most recent position: Alpha Leasing (current employer), Commercial Manager.  
+Key Skills:  
+- Test Design  
+- Testing Pyramid  
+- Knowledge of Software Development Processes and SDLC (Software Development Life Cycle)  
+Testing Tools:  
+- DevTools  
+- Postman  
+- GitHub  

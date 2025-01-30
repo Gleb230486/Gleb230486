@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Education: Higher Education  
-Additional Education: Tough Negotiations, Sales Skills, Handling Objections, QA Engineer (Software Tester) Courses  
+Additional Education: Tough Negotiations, Sales Skills, Handling Objections, QA Engineer (Software Tester) Courses Hexlet  
 Work Experience: Over 15 years. Most recent position: Alpha Leasing (current employer), Commercial Manager.  
 Key Skills:  
 - Test Design  
